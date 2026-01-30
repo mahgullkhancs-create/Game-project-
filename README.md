@@ -14,3 +14,6 @@ This project was developed as part of my Bachelor’s in Computer Science.
 
 ## How to run
 Open index.html in a browser.
+
+(GitHub Pages rebuild)
+
